@@ -1,2 +1,2 @@
-# awesomedot.github.io
+# awesomedotz.github.io
 My First Website
